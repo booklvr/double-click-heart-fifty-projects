@@ -1,8 +1,8 @@
 import React from 'react'
-import placeholder from './components/placeholder'
+import DoubleClickHeart from './components/DoubleClickHeart'
 
 const App = () => {
-  return <placeholder />
+  return <DoubleClickHeart />
 }
 
 export default App
